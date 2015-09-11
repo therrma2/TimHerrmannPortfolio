@@ -5,16 +5,14 @@ url: index.html
 image: http://unsplash.it/400?random
 ---
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+## My Story
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+After graduating from the University of Illinois with a degree in General Engineering, I found myself working in supply chain management for a major corporation.  Everything went well, but after 6 years, multiple promotions, and several relocations, I couldn't shake the feeling that something was missing.  I finally took a leap of faith and left to pursue something I'd become passionate about.  Robotics.
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+So here I am, starting a new chapter of my life as a graduate student in the Master's of Science in Robotics (MSR) program at Northwestern University.  I'm unbelievably excited to get started.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+Check back thoughout the year as I update this portfolio with projects.
+
 
 ### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+* Product Development and Design
