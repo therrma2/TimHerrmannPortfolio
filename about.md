@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: /msr-student-template/public/images/Profile.jpg
+image: /TimHerrmannPortfolio/public/images/Profile.jpg
 ---
 
 ## My Story
