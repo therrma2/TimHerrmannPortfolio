@@ -43,7 +43,9 @@ When mounting the IMU on the TurtleBot, an attempt was made to make the IMU as c
 <img style=" float:left; display:inline" src="/TimHerrmannPortfolio/public/images/mountedbracket.JPG" width="200" alt="Bracket With IMU"/>
 <img style=" float:left; display:inline" src="/TimHerrmannPortfolio/public/images/fullmount.JPG" width="200" alt="Fully Mounted IMU"/>
 <br><br><br><br><br><br><br><br><br><br><br>
-<a href="https://github.com/therrma2/TimHerrmannPortfolio/blob/gh-pages/public/Mounting%20Bracket.stl">Mounting Bracket .STL File"</a>
+
+<a href="https://github.com/therrma2/TimHerrmannPortfolio/blob/gh-pages/public/Mounting%20Bracket.stl">Mounting Bracket .STL File</a>
+<br>
 
 ### Setup and Calibration
 ROS Drivers, as well as full calibration procedures for the Razor 9DOF IMU can be downloaded from <http://wiki.ros.org/razor_imu_9dof/>
