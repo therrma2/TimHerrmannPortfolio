@@ -5,9 +5,17 @@ url: index.html
 image: /TimHerrmannPortfolio/public/images/Profile.jpg
 ---
 
-## My Story
+## About Me
 
-After graduating from the University of Illinois with a degree in General Engineering, I found myself working in supply chain management for a major corporation.  Everything went well, but after 6 years, multiple promotions, and several relocations, I couldn't shake the feeling that something was missing.  I finally took a leap of faith and left to pursue something I'd become passionate about.  Robotics.
+I am currently completing a Masters of Science in Robotics and Northwestern University in Evanston, IL, expecting to graduate in December 2016.  I also have a Bachelor's of Science in General Engineering from the University of Illinois at Urbana-Champaign.
 
-So here I am, starting a new chapter of my life as a graduate student in the Master's of Science in Robotics (MSR) program at Northwestern University.  Check back thoughout the year as I update this portfolio with all sorts of interesting projects.
+My path to this point has been a bit unusual in that I spend 6 years working in logistics for a major food and beverage manufacturer before making the decision to return to my engineering roots.  I choose to leave a successful career in order to pursue a more fulfilling and personally rewarding career in robotics.
 
+I'm interested in all things robotics, but specifically:
+* Computer Vision
+* Mechatronics
+* Manipulation
+
+My dream jobs would be working on a Mars Rover, or created fun robotic toys and gadgets.
+
+For more information, please feel free click on Contact above and send me an email.
