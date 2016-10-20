@@ -16,6 +16,6 @@ I'm interested in all things robotics, but specifically:
 * Mechatronics
 * Manipulation
 
-My dream jobs would be working on a Mars Rover, or created fun robotic toys and gadgets.
+My dream jobs would be working on a Mars Rover, or creating fun robotic toys and gadgets.
 
 For more information, please feel free click on Contact above and send me an email.
